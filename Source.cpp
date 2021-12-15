@@ -286,7 +286,3 @@ int main()
 
     return 0;
 }
-
-/* Code referenced:
-*  Announcements, C++ Classes and Project 1 https://learn.snhu.edu/d2l/lms/news/main.d2l?ou=895801
-*/
