@@ -1,9 +1,3 @@
-// Project One
-// Jordan Ballard
-// November 14, 2021
-
-
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
